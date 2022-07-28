@@ -1,1 +1,8 @@
+title: Hello, World!
+author:
+  name: lime360
+  email: emeraldlime@protonmail.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  A collection of hello world scripts
+
 theme: jekyll-theme-cayman
