@@ -1,3 +1,6 @@
 title: Hello, World!
+author:
+  name: lime360
+  email: emeraldlime@protonmail.com
 description: a collection of hello world example scripts
 theme: jekyll-theme-cayman
